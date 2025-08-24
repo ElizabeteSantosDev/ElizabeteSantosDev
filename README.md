@@ -11,14 +11,21 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElizabeteSantosDev&theme=jolly) | [![GitHub Streak](https://streak-stats.demolab.com?user=ElizabeteSantosDev&theme=jolly&hide_border=true&border_radius=)](https://git.io/streak-stats) |
 | :-: | :-: |
 
-<img width="40" src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
-<img width="40" src="https://devicon-website.vercel.app/api/css3/original.svg"></img> 
-<img width="40" src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
-<img width="40" src="https://devicon-website.vercel.app/api/php/original.svg"></img>
-<img width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg"></img> 
-<img width="40" src="https://devicon-website.vercel.app/api/wordpress/original.svg"></img> 
-<img width="40" src="https://devicon-website.vercel.app/api/photoshop/line.svg"></img>
-<img width="40" src="https://devicon-website.vercel.app/api/illustrator/line.svg"></img>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+</div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082&section=footer"/>
