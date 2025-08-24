@@ -29,6 +29,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
 </div>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="60" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=illustrator" height="60" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aftereffects" height="60" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=premiere" height="60" alt="premiere logo"  />
+</div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082&section=footer"/>
