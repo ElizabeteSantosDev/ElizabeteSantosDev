@@ -26,6 +26,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
 </div>
-
+<div align="center">
+  <img src="https://i.gifer.com/5RTG.gif" alt="gif"  />
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082&section=footer"/>
